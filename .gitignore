@@ -3,7 +3,7 @@ target/
 
 # idea #
 .idea/
-*.impl
+*.iml
 
 # Eclipse #
 .settings/
